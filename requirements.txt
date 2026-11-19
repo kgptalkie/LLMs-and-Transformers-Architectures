@@ -1,0 +1,6 @@
+# Install PyTorch with CUDA first, from https://pytorch.org/get-started/locally/
+# Versions the lessons were run with: torch 2.15, transformers 5.23, accelerate 1.16, bitsandbytes 0.50.
+transformers>=5.23
+accelerate>=1.16
+bitsandbytes>=0.50
+ipykernel
