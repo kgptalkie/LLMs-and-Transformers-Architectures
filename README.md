@@ -71,6 +71,12 @@ pip install -r requirements.txt
 
 Open a notebook, click **Select Kernel** at the top right, and choose the `.venv` environment.
 
+## Cheat sheets
+
+The `cheatsheets` folder has one PDF for every part of a section, 41 in all, from Words as numbers to Model teardowns.
+Each one sums up the part's key ideas in three to five pages and ends with interview questions and short answers you
+can say out loud. The same PDFs are attached in the course, on the first lecture of each section.
+
 ## Sections
 
 | # | Section | Files |
